@@ -1,6 +1,8 @@
-title: Danny Ng's Github.io
+title: Danny Ng Homepage
 description: Danny Ng's Homepage
 theme: just-the-docs
 
 url: https://dannyng.github.io
 
+mermaid:
+  version: "9.1.3"
