@@ -1,5 +1,5 @@
 ---
-title: ROS Getting Started
+title: Robot Operating System (ROS)
 layout: default
 has_children: true
 ---

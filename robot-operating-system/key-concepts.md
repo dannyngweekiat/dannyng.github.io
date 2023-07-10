@@ -1,7 +1,7 @@
 ---
 title: Key Concepts for ROS developments
 layout: default
-parent: ROS Getting Started
+parent: Robot Operating System (ROS)
 nav_order: 1
 ---
 
@@ -13,7 +13,7 @@ To effectively develop with ROS (Robot Operating System) on Ubuntu, it's importa
 
 Mastering the usage of the terminal is crucial for effectively working with Ubuntu and ROS 2. The terminal, also known as the command line interface, allows you to interact with the operating system and execute commands. Here are some key concepts related to using the terminal:
 
-![Ubuntu Terminal](/assets/images/ros-gettings-started/key-concepts/terminal.png)
+![Ubuntu Terminal](/assets/images/ros/key-concepts/terminal.png)
 
 ### Navigating the File System
 
@@ -33,7 +33,7 @@ The command below will list the contents of the current directory.
 ls
 ```
 
-![Ubuntu Terminal](/assets/images/ros-gettings-started/key-concepts/cdls.png)
+![Ubuntu Terminal](/assets/images/ros/key-concepts/cdls.png)
 
 In the terminal, the symbols ~, ., and .. have specific meanings related to navigating the file system:
 
@@ -52,7 +52,7 @@ cd ..
 
 ### Command Execution
 
-The terminal allows you to execute various commands to compile code, launch ROS nodes, and manage packages. Understand the syntax and options of different commands to efficiently perform tasks in Ubuntu and ROS 2.
+The terminal allows you to execute various commands to compile code, launch ROS nodes, and manage packages. Understand the syntax and options of different commands to efficiently perform tasks in Ubuntu and ROS 2. The command **cd** and **ls** are examples of commands that you can execute in the terminal.
 
 ---
-[Previous]({{ site.baseurl }}{% link ros-getting-started/setup.md %}) | [Next]({{ site.baseurl }}{% link ros-getting-started/key-concepts.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system/setup.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/ros-basics.md %})
