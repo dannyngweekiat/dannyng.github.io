@@ -90,6 +90,10 @@ You should see the turtle moving once you run the node.
 
 ![Turtle motion](/assets/images/ros/publisher/turtle.gif)
 
+## Things to try
+
+1. Change the way the speed values are defined and observe the turtle's motion.
+2. Change the timer period and observe the turtle's motion.
 
 ---
 

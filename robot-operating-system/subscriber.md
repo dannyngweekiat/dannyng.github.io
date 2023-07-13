@@ -68,5 +68,9 @@ You should see the following output:
 
 ![Turtle sensor](/assets/images/ros/subscriber/color.png)
 
+## Things to try
+
+1. Add subscriber to the "turtle1/pose" topic and print out the turtle's pose.
+
 ---
 [Previous]({{ site.baseurl }}{% link robot-operating-system/publisher.md %})
