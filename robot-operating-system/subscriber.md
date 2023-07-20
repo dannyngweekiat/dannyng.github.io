@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Subscriber
 
-In this section we are going to create a subscriber node that subscribes to the topic "turtle1/color_sensor". Create a new file named "turtle_sensor.py" in the "scripts" folder of the "turtle_controller" package and key in the following code:
+In this section we are going to create a subscriber node that subscribes to the topic "turtle1/color_sensor". Create a new file named "turtle_sensor.py" in the "turtle_controller" folder of the "turtle_controller" package and key in the following code:
 
 ```python
 import rclpy  # Import the ROS 2 Python client library

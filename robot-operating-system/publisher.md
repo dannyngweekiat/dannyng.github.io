@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Publisher
 
-In this section, we will create a publisher node that publishes a message to the topic "turtle1/cmd_vel". The node, named "turtle_driver", will be part of the project we created in the previous section. Open the file "turtle_driver.py" in the "scripts" folder of the "turtle_controller" package and key in the following code:
+In this section, we will create a publisher node that publishes a message to the topic "turtle1/cmd_vel". The node, named "turtle_driver", will be part of the project we created in the previous section. Open the file "turtle_driver.py" in the "turtle_controller" folder of the "turtle_controller" package and key in the following code:
 
 ```python
 import rclpy  # Import the ROS 2 Python client library
