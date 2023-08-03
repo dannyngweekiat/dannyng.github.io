@@ -1,7 +1,7 @@
 ---
 title: Service Client
 layout: default
-parent: Robot Operating System (ROS)
+parent: Robot Operating System (ROS) Basics
 nav_order: 6
 ---
 
@@ -79,6 +79,8 @@ Add a new entry point to the newly created file in "setup.py" for this code and 
 cd ~/ros2_ws
 colcon build --packages-select turtle_controller --symlink-install
 ```
+
+Add a new entry point to the newly created file in "setup.py" for this code and build the package.
 
 After running the node, you should see a new turtle spawned in the turtle sim window. You can control the turtle using the arrow keys using the command below. Remapping is used to change the topic name of the teleop turtle node to the newly spawned turtle.
 

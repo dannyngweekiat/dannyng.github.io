@@ -1,7 +1,7 @@
 ---
 title: Setup
 layout: default
-parent: Robot Operating System (ROS)
+parent: Robot Operating System (ROS) Basics
 nav_order: 0
 ---
 

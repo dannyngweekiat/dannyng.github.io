@@ -1,7 +1,7 @@
 ---
 title: Action Client
 layout: default
-parent: Robot Operating System (ROS)
+parent: Robot Operating System (ROS) Basics
 nav_order: 8
 ---
 
@@ -113,4 +113,4 @@ After building the package, run the action client node using and you will see th
 ![Turtle rotate](/assets/images/ros/action-client/spin.gif)
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/service.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system/service.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/action-server.md %})
