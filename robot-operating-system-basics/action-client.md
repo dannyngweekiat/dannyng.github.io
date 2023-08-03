@@ -113,4 +113,4 @@ After building the package, run the action client node using and you will see th
 ![Turtle rotate](/assets/images/ros/action-client/spin.gif)
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/service.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/action-server.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/service.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/action-server.md %})

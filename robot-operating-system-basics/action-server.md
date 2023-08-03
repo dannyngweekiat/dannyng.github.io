@@ -203,4 +203,4 @@ ros2 action send_goal /turtle_to_pose nav2_msgs/action/NavigateToPose "{pose: {h
 
 ---
 
-[Previous]({{ site.baseurl }}{% link robot-operating-system/action-client.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/launch-file.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/action-client.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/launch-file.md %})

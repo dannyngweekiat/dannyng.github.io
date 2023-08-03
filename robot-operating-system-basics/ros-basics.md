@@ -19,4 +19,4 @@ Go through the following tutorials (~75 minutes) from the ROS 2 documentation:
 - [Understanding actions](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Actions/Understanding-ROS2-Actions.html){:target="_blank"}
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/key-concepts.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/project.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/key-concepts.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/project.md %})

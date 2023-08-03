@@ -73,4 +73,4 @@ You should see the following output:
 1. Add subscriber to the "turtle1/pose" topic and print out the turtle's pose.
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/publisher.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/service-client.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/publisher.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/service-client.md %})

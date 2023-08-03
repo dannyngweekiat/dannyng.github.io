@@ -55,4 +55,4 @@ cd ..
 The terminal allows you to execute various commands to compile code, launch ROS nodes, and manage packages. Understand the syntax and options of different commands to efficiently perform tasks in Ubuntu and ROS 2. The command **cd** and **ls** are examples of commands that you can execute in the terminal.
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/setup.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/ros-basics.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/setup.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/ros-basics.md %})

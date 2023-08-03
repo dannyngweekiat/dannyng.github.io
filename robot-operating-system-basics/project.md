@@ -104,4 +104,4 @@ You will see the output shown in the image below.
 ![TODO changes](/assets/images/ros/project/hi_world.png)
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/ros-basics.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/publisher.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/ros-basics.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/publisher.md %})

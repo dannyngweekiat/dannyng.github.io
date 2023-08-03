@@ -98,4 +98,4 @@ ros2 run turtlesim turtle_teleop_key --ros-args --remap /turtle1/cmd_vel:=/{turt
 3. Change the pen color of newly spawned turtle
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/subscriber.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/service.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/subscriber.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/service.md %})

@@ -55,4 +55,4 @@ ros2 launch turtle_controller turtle.launch.py
 
 ---
 
-[Previous]({{ site.baseurl }}{% link robot-operating-system/action-server.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/action-server.md %})

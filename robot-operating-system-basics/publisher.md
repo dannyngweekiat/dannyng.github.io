@@ -97,4 +97,4 @@ You should see the turtle moving once you run the node.
 
 ---
 
-[Previous]({{ site.baseurl }}{% link robot-operating-system/project.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/subscriber.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/project.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/subscriber.md %})

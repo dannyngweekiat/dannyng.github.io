@@ -107,4 +107,4 @@ ros2 service call /turtle_empty std_srvs/srv/Empty {}
 1. Spawn a new turtle named "turtle0" after emptying the simulation window.
 
 ---
-[Previous]({{ site.baseurl }}{% link robot-operating-system/service-client.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/action-client.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system-basics/service-client.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system-basics/action-client.md %})

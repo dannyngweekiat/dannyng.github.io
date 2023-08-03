@@ -30,4 +30,4 @@ Refer to [Using colcon to build packages](https://docs.ros.org/en/humble/Tutoria
 VScode will be the main IDE for the development. Install VScode by following the instructions on the [VScode website](https://code.visualstudio.com/docs/setup/linux){:target="_blank"}.
 
 ---
-[Next]({{ site.baseurl }}{% link robot-operating-system/key-concepts.md %})
+[Next]({{ site.baseurl }}{% link robot-operating-system-basics/key-concepts.md %})
