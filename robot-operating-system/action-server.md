@@ -193,6 +193,7 @@ Add a new entry point to the newly created file in "setup.py" for this code and 
 After building the package, run the action server node. Using the bash command below you will be able to drive the turtle to a specific pose.
 
 ```bash
+ros2 action send_goal /turtle_to_pose nav2_msgs/action/NavigateToPose "{pose: {header: {frame_id: map, stamp: {sec: 0, nanosec: 0}}, pose: {position: {x: 6.5, 'y': 6, z: 0}, orientation: {x: 0, 'y': 0, z: 0, w: 1}}}, behavior_tree: none}" --feedback
 ```
 
 ## Things to try
@@ -202,4 +203,4 @@ After building the package, run the action server node. Using the bash command b
 
 ---
 
-[Previous]({{ site.baseurl }}{% link robot-operating-system/action-client.md %})
+[Previous]({{ site.baseurl }}{% link robot-operating-system/action-client.md %}) | [Next]({{ site.baseurl }}{% link robot-operating-system/launch-file.md %})
