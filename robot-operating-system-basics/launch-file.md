@@ -9,7 +9,7 @@ nav_order: 10
 
 Launch files simplify the process of starting multiple nodes and configuring them. They are XML files that can be used to launch multiple nodes with a single command. In this section, we will create a launch file that will launch nodes in the "turtle_controller" package.
 
-Create a new folder called "launch" in the "turtle_controller" package. Create a new launch file named "turtle_controller.launch.py" in the "turtle_controller" package and key in the following code:
+Create a new folder called "launch" in the root of the package. Create a new launch file named "turtle.launch.py" in the "turtle_controller" package and key in the following code:
 
 ```python
 from launch import LaunchDescription
